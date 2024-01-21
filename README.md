@@ -27,7 +27,7 @@ Loss         | 0.012
 Accuracy     | 98.58%
 
 
-## Validation Accuracy and Loss Curve
+## Accuracy and Loss Curve
 
 <p align="center"> <img src="https://github.com/reshalfahsi/medical-image-similarity-search/blob/master/assets/loss_curve.png" alt="loss_curve" > <br /> The loss curve on the train and validation sets of the Siamese network. </p>
 
